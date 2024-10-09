@@ -71,7 +71,10 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+The fishers test shows that the p-value is 0.00006596, which is lower than the acceptable p-value of 0.5 so we will reject the null hypothesis. It also states that women who get the vaccine are 1.543902 times more likely to get aids than those who did not get the vaccine. Therefore the treatment is not effective in preventing aids in women.
 
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+We will reject the null hypothesis because according to the bar chart, among the women who have contracted aids, most received the vaccine. This chart shows the vaccine is not effective in preventing the disease. The numerical results shows that the women who have received treatment about 58.82 percent of women received the vaccine but still contracted aids. While those who received the placebo only 41.18 percent contracted aids.The fishers test shows that the p-value is 0.00006596, which is lower than the acceptable p value of 0.5 so we will reject the null hypothesis.It also states that women who get the vaccine are 1.543902 times more likely to get aids than those who did not get the vaccine.Therefore the treatment is not effective in preventing aids in women.
